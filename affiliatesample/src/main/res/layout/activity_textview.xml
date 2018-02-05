@@ -1,0 +1,20 @@
+<ScrollView android:id="@+id/ScrollView"
+    android:layout_height="fill_parent"
+    android:layout_width="fill_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".TextViewActivity"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+<LinearLayout
+    android:id="@+id/LinearLayout"
+    android:orientation="vertical"
+    android:layout_height="fill_parent"
+    android:layout_width="fill_parent">
+
+    <com.valuecommerce.android.ADVCTextView
+        android:id="@+id/text_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textIsSelectable="true" />
+</LinearLayout>
+</ScrollView>

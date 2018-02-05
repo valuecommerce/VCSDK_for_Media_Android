@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">VCSDK for Media AndroidSample</string>
+    <integer name="vcpid">12345</integer>
+    <string name="text">
+<![CDATA[
+延べ65万を超えるアフィリエイトサイトが登録するバリューコマース アフィリエイトは国内最大級のASP（アフィリエイトサービスプロバイダー）です。<br>
+アフィリエイト広告の出稿実績は6,000社以上。<br>
+広告主が提供する様々な商品やサービスを選択し、サイトやブログ上に広告を掲載することができます。<br>
+もちろん参加は無料です。<br>
+<br>
+バリューコマース アフィリエイトは、スマートフォンにも対応したアフィリエイトサービスです。<br>
+<a href="https://www.valuecommerce.ne.jp/">バリューコマース</a>
+]]>
+    </string>
+    <string name="action_settings">Settings</string>
+</resources>
